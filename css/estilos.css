@@ -19,6 +19,13 @@ body
     padding: 0.8em;
 }
 
+#cabecera #logo
+{
+    width: 28px;
+    vertical-align: middle;
+    border:1px solid white; 
+    border-radius: 15px;
+}
 
 #cabecera #tagline
 {
